@@ -1,7 +1,6 @@
 
-
-
-<!-- ![gif](//https://ibb.co/m8hV0GX) -->
+<p align = "center">
+  <img src="https://github.com/carolinefonseca0001/carolinefonseca0001/blob/main/ezgif.com-video-to-gif.gif">
 
 ### oh hey! 🌈
 
