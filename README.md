@@ -14,5 +14,6 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I do musical theatre in my free time! 🎭
 
+<img src="https://github-readme-stats.vercel.app/api?carolinefonseca0001">
     
 <!-- ###  vibing to 🎶 -->
