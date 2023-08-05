@@ -12,5 +12,5 @@ My name is Caroline. I am currently learning Javascript as part of my Full Stack
 <img
   src="https://github-readme-stats.vercel.app/api?username=carolinefonseca0001&show_icons=true&theme=react&&hide_border=true"
 />
-    
-<!-- ###  vibing to 🎶 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinefonseca0001&size_weight=0.5&count_weight=0.5)
