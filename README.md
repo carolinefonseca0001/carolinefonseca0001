@@ -4,7 +4,7 @@
 ### oh hey! 🌈
 
 
-My name is Caroline. I am currently learning Javascript as part of my Full Stack Web Development course with <a href="truecoders.io">TrueCoders</a>. I would like to work on projects that incorporate tech with the arts and non-profit sector :) Thanks for stopping by!
+My name is Caroline. I am currently learning React as part of my Full Stack Web Development course with <a href="truecoders.io">TrueCoders</a>. I would like to work on projects that incorporate tech with the arts and non-profit sector :) Thanks for stopping by!
 <p>
   <br/><a href="https://www.linkedin.com/in/carolinefonseca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:caroline.fonseca0001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
